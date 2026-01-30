@@ -33,7 +33,7 @@
     "url": "https://github.com/walletconnect/node-walletconnect-bridge/issues"
   },
   "devDependencies": {
-    "@babel/cli": "^7.4.4",
+    "@babel/cli": "^7.12.0",
     "@babel/core": "^7.4.5",
     "@babel/node": "^7.4.5",
     "@babel/polyfill": "^7.4.4",
@@ -47,13 +47,13 @@
     "@types/redis": "^2.8.13",
     "@types/ws": "^6.0.1",
     "core-js": "^3.2.1",
-    "eslint": "^5.16.0",
+    "eslint": "^9.26.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-node": "^9.1.0",
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-standard": "^4.0.0",
-    "tslint": "^5.11.0",
+    "tslint": "^5.20.0",
     "tslint-config-standard": "^8.0.1",
     "typescript": "^3.1.3"
   }
